@@ -11,7 +11,7 @@ TODO:
 - [x] Render via CLI
 - [x] Render via Python script
 
-![](p1-cornellbox/p1_0001.png)
+![](p1-cornellbox/p01_0001.png)
 
 Misc. notes:
 - Workspaces at the top of the screen are different collections of editors. The icon+dropdown at the top left of each panel are the editor types.
