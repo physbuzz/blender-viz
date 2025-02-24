@@ -35,7 +35,7 @@ Misc. notes:
 ## 3. Create a "planets size comparison" render
 - [x] Planet textures + layout + shaders
 
-![](p3-planets/melonplanet0001.png)
+![](p3-planets/planet0001.png)
 
 - [x] Video + animation render
 - [ ] Overlay text onto video
