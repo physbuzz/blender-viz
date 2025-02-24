@@ -33,12 +33,13 @@ Misc. notes:
 - For rendering a low quality animation, it's better if the .blend is configured to render the high quality animation. From there you can scale down the screen size (using `-P script.py`) or skip an integer number of frames to get the downsampled image.
 
 ## 3. Create a "planets size comparison" render
-- [ ] Get planet textures
-- [ ] Learn video workflow
-- [ ] Create size comparison animation
+- [x] Planet textures + layout + shaders
 
-- Learn camera path animation basics
-- Understand how to overlay things like text onto videos
+![](p3-planets/melonplanet0001.png)
+
+- [x] Video + animation render
+- [ ] Overlay text onto video
+- [ ] Any need to worry about f-curves and animation nodes?
 - Understand terminology like timeline, dope sheet, f-curves, animation nodes
 
 ## 4. Import + render some mathematical objects from Mathematica
